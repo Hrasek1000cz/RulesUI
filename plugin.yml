@@ -1,0 +1,10 @@
+name: RulesUI
+main: Hrasek1000\RulesUI\Main
+version: 0.0.1
+api: 3.14.0
+author: Hrasek1000
+commands:
+    rules:
+        description: RulesUI created by Hrasek1000
+        usage: /rules
+        
